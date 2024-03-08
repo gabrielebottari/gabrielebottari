@@ -39,16 +39,7 @@
 
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielebottari&show_icons=true&locale=en&layout=compact" alt="gabrielebottari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielebottari&show_icons=true&locale=en" alt="gabrielebottari" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielebottari&" alt="gabrielebottari" /></p>
-
 ###
-
-
-
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielebottari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
