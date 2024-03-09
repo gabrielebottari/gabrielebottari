@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Gabriele</h1>
 <h3 align="center">Jr Full-Stack web developer from Italy</h3>
@@ -32,3 +41,5 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+</body>
