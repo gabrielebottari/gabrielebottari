@@ -12,7 +12,7 @@
 <h3 align="center">Jr Full-Stack web developer from Italy</h3>
 <br>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrapp,Sass, Vue.js, php, mySQL, Laravel**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Bootstrapp, Sass, Vue.js, php, mySQL, Laravel**
 
 - 👨‍💻 All of my projects are available at [github.com/gabrielebottari](github.com/gabrielebottari)
 
